@@ -11,6 +11,8 @@ The `awesome-selfhosted` list and others like it are invaluable for discovery, b
 
 This project aims to fill that gap. We go beyond listing software to provide **in-depth, side-by-side evaluations** that consider what matters most in a self-hosted environment: deployment complexity, resource consumption, security posture, and long-term maintainability.
 
+By leveraging GitHub's version control, we also **preserve the historical record of evaluations**, making it easy to track how software evolves across different versions and how our assessments change over time.
+
 ## 🧪 Our Methodology: Not Just an Opinion
 
 Every review is based on a transparent and repeatable framework, focusing on practicalities:
@@ -33,11 +35,10 @@ We run software in controlled environments, perform common tasks, and document t
 
 This is intended to be a community-driven resource. Your input is crucial!
 
-1.  **Suggest a Topic**: Open an [Issue](https://github.com/[你的GitHub用户名]/self-hosted-evaluation/issues) to propose software categories or specific apps for evaluation.
+1.  **Suggest a Topic**: Open an [Issue](https://github.com/blackholll/self-hosted-evaluation/issues) to propose software categories or specific apps for evaluation.
 2.  **Improve a Review**: See an inaccuracy or have additional data? Submit a Pull Request with your corrections or insights.
 3.  **Share Your Experience**: Comment on existing reviews with your own production experiences. Your real-world data is gold.
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting.
 
 ## 📜 License
 
